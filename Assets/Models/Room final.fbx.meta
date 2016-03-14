@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 66c037eff6870d6499781c9d6fd4f78c
+timeCreated: 1456107801
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Background
+    100002: Bed
+    100004: Book
+    100006: Book2
+    100008: Book_2
+    100010: Cabinet
+    100012: Camera
+    100014: Colorbourne_room_2:camera1
+    100016: Colorbourne_room_2:group
+    100018: Couter
+    100020: Desk
+    100022: Door
+    100024: Drawer
+    100026: Easel
+    100028: Floor
+    100030: Fridge
+    100032: Lamp
+    100034: Lampost
+    100036: Lampshade
+    100038: Moon
+    100040: Poster_painting
+    100042: //RootNode
+    100044: Spot_Light
+    100046: Table
+    100048: transform1
+    100050: transform2
+    100052: Trash_bin
+    100054: Walls
+    400000: Background
+    400002: Bed
+    400004: Book
+    400006: Book2
+    400008: Book_2
+    400010: Cabinet
+    400012: Camera
+    400014: Colorbourne_room_2:camera1
+    400016: Colorbourne_room_2:group
+    400018: Couter
+    400020: Desk
+    400022: Door
+    400024: Drawer
+    400026: Easel
+    400028: Floor
+    400030: Fridge
+    400032: Lamp
+    400034: Lampost
+    400036: Lampshade
+    400038: Moon
+    400040: Poster_painting
+    400042: //RootNode
+    400044: Spot_Light
+    400046: Table
+    400048: transform1
+    400050: transform2
+    400052: Trash_bin
+    400054: Walls
+    2300000: Background
+    2300002: Bed
+    2300004: Book
+    2300006: Book2
+    2300008: Cabinet
+    2300010: Couter
+    2300012: Desk
+    2300014: Door
+    2300016: Drawer
+    2300018: Easel
+    2300020: Floor
+    2300022: Fridge
+    2300024: Lamp
+    2300026: Moon
+    2300028: Poster_painting
+    2300030: Table
+    2300032: Trash_bin
+    2300034: Walls
+    3300000: Background
+    3300002: Bed
+    3300004: Book
+    3300006: Book2
+    3300008: Cabinet
+    3300010: Couter
+    3300012: Desk
+    3300014: Door
+    3300016: Drawer
+    3300018: Easel
+    3300020: Floor
+    3300022: Fridge
+    3300024: Lamp
+    3300026: Moon
+    3300028: Poster_painting
+    3300030: Table
+    3300032: Trash_bin
+    3300034: Walls
+    4300000: Floor
+    4300002: Walls
+    4300004: Bed
+    4300006: Drawer
+    4300008: Poster_painting
+    4300010: Desk
+    4300012: Trash_bin
+    4300014: Book2
+    4300016: Book
+    4300018: Lamp
+    4300020: Table
+    4300022: Fridge
+    4300024: Couter
+    4300026: Cabinet
+    4300028: Easel
+    4300030: Door
+    4300032: Background
+    4300034: Moon
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

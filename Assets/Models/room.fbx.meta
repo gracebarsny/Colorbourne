@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: a518967767d1dfd47b0840e3f048623f
+timeCreated: 1456107040
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Background
+    100002: Bed
+    100004: Book
+    100006: Book2
+    100008: Book_2
+    100010: Carpet
+    100012: Desk
+    100014: Door
+    100016: Drawer
+    100018: Fill_Light
+    100020: Floor
+    100022: Lamp
+    100024: Lampost
+    100026: Lampshade
+    100028: Left_Wall
+    100030: Moon
+    100032: Moonlight
+    100034: Poster_painting
+    100036: Right_Wall
+    100038: //RootNode
+    100040: transform1
+    100042: transform2
+    100044: transform6
+    100046: transform7
+    100048: transform8
+    100050: transform9
+    100052: Trash
+    100054: Window
+    100056: WindowFrameDown
+    100058: WindowFrameLeft
+    100060: WindowFrameRight
+    100062: WindowFrameUp
+    400000: Background
+    400002: Bed
+    400004: Book
+    400006: Book2
+    400008: Book_2
+    400010: Carpet
+    400012: Desk
+    400014: Door
+    400016: Drawer
+    400018: Fill_Light
+    400020: Floor
+    400022: Lamp
+    400024: Lampost
+    400026: Lampshade
+    400028: Left_Wall
+    400030: Moon
+    400032: Moonlight
+    400034: Poster_painting
+    400036: Right_Wall
+    400038: //RootNode
+    400040: transform1
+    400042: transform2
+    400044: transform6
+    400046: transform7
+    400048: transform8
+    400050: transform9
+    400052: Trash
+    400054: Window
+    400056: WindowFrameDown
+    400058: WindowFrameLeft
+    400060: WindowFrameRight
+    400062: WindowFrameUp
+    2300000: Background
+    2300002: Bed
+    2300004: Book
+    2300006: Book2
+    2300008: Carpet
+    2300010: Desk
+    2300012: Door
+    2300014: Drawer
+    2300016: Floor
+    2300018: Lamp
+    2300020: Left_Wall
+    2300022: Moon
+    2300024: Poster_painting
+    2300026: Right_Wall
+    2300028: Trash
+    2300030: Window
+    3300000: Background
+    3300002: Bed
+    3300004: Book
+    3300006: Book2
+    3300008: Carpet
+    3300010: Desk
+    3300012: Door
+    3300014: Drawer
+    3300016: Floor
+    3300018: Lamp
+    3300020: Left_Wall
+    3300022: Moon
+    3300024: Poster_painting
+    3300026: Right_Wall
+    3300028: Trash
+    3300030: Window
+    4300000: Floor
+    4300002: Bed
+    4300004: Right_Wall
+    4300006: Left_Wall
+    4300008: Door
+    4300010: Drawer
+    4300012: Poster_painting
+    4300014: Carpet
+    4300016: Background
+    4300018: Moon
+    4300020: Desk
+    4300022: Trash
+    4300024: Book2
+    4300026: Book
+    4300028: Lamp
+    4300030: Window
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 4198a3cf0476a81498a26813246cadc6
+timeCreated: 1456108019
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Background
+    100002: Bed
+    100004: Body
+    100006: Book
+    100008: Book2
+    100010: Book_2
+    100012: camera1
+    100014: Carpet
+    100016: //RootNode
+    100018: Desk
+    100020: Door
+    100022: Drawer
+    100024: Fill_Light
+    100026: Floor
+    100028: group
+    100030: group1
+    100032: group2
+    100034: group3
+    100036: Head
+    100038: Lampost
+    100040: Lampshade
+    100042: Left_Wall
+    100044: Moon
+    100046: Moonlight
+    100048: Paint
+    100050: Paint_Spotlight
+    100052: Paintbrush
+    100054: pasted__group2
+    100056: Poster_painting
+    100058: Right_Wall
+    100060: Spot_Light
+    100062: Trash
+    100064: WindowFrameDown
+    100066: WindowFrameLeft
+    100068: WindowFrameRight
+    100070: WindowFrameUp
+    400000: Background
+    400002: Bed
+    400004: Body
+    400006: Book
+    400008: Book2
+    400010: Book_2
+    400012: camera1
+    400014: Carpet
+    400016: //RootNode
+    400018: Desk
+    400020: Door
+    400022: Drawer
+    400024: Fill_Light
+    400026: Floor
+    400028: group
+    400030: group1
+    400032: group2
+    400034: group3
+    400036: Head
+    400038: Lampost
+    400040: Lampshade
+    400042: Left_Wall
+    400044: Moon
+    400046: Moonlight
+    400048: Paint
+    400050: Paint_Spotlight
+    400052: Paintbrush
+    400054: pasted__group2
+    400056: Poster_painting
+    400058: Right_Wall
+    400060: Spot_Light
+    400062: Trash
+    400064: WindowFrameDown
+    400066: WindowFrameLeft
+    400068: WindowFrameRight
+    400070: WindowFrameUp
+    2300000: Background
+    2300002: Bed
+    2300004: Body
+    2300006: Book
+    2300008: Book2
+    2300010: Carpet
+    2300012: Desk
+    2300014: Door
+    2300016: Drawer
+    2300018: Floor
+    2300020: Head
+    2300022: Lampost
+    2300024: Lampshade
+    2300026: Left_Wall
+    2300028: Moon
+    2300030: Paint
+    2300032: Paintbrush
+    2300034: Poster_painting
+    2300036: Right_Wall
+    2300038: Trash
+    2300040: WindowFrameDown
+    2300042: WindowFrameLeft
+    2300044: WindowFrameRight
+    2300046: WindowFrameUp
+    3300000: Background
+    3300002: Bed
+    3300004: Body
+    3300006: Book
+    3300008: Book2
+    3300010: Carpet
+    3300012: Desk
+    3300014: Door
+    3300016: Drawer
+    3300018: Floor
+    3300020: Head
+    3300022: Lampost
+    3300024: Lampshade
+    3300026: Left_Wall
+    3300028: Moon
+    3300030: Paint
+    3300032: Paintbrush
+    3300034: Poster_painting
+    3300036: Right_Wall
+    3300038: Trash
+    3300040: WindowFrameDown
+    3300042: WindowFrameLeft
+    3300044: WindowFrameRight
+    3300046: WindowFrameUp
+    4300000: Floor
+    4300002: Bed
+    4300004: Right_Wall
+    4300006: Left_Wall
+    4300008: Body
+    4300010: WindowFrameLeft
+    4300012: WindowFrameDown
+    4300014: Head
+    4300016: WindowFrameRight
+    4300018: WindowFrameUp
+    4300020: Paint
+    4300022: Door
+    4300024: Drawer
+    4300026: Poster_painting
+    4300028: Carpet
+    4300030: Paintbrush
+    4300032: Lampost
+    4300034: Lampshade
+    4300036: Background
+    4300038: Moon
+    4300040: Desk
+    4300042: Trash
+    4300044: Book2
+    4300046: Book
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
